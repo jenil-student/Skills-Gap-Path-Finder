@@ -2,7 +2,7 @@
 
 ---
 
-### How to Use This README
+### How to Use This Project
 1. **Create the File**:
    - Open a text editor (e.g., Notepad, VS Code).
    - Copy the content above.
@@ -15,11 +15,11 @@
      - `indeed_job_dataset.csv`
    - Commit and push to GitHub.
 
-3. **Replace Placeholders**:
+3. **Created by**:
    -  `[Jenil Trambadiya]` 
-   - Update the GitHub URL (`https://github.com/jenil-student/Skills-Gap-Path-Finder`) 
+   - (`https://github.com/jenil-student/Skills-Gap-Path-Finder`) 
 
-4. **Generate Images** (if not already done):
+5. **Generate Images** (if not already done):
    - Run the script to create the PNGs:
 ![skill_galaxy](https://github.com/user-attachments/assets/d1da6e55-df26-4db6-a34a-a0547edb1d07)
 ![skill_gap_bar](https://github.com/user-attachments/assets/7f60c8a5-1a65-4fa2-9ed5-1a0f2519ec97)
